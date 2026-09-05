@@ -1,6 +1,5 @@
-# 💫 About Me:
-Someone who never stops learning
-
+# 💫 Hey, I'm Haafiidzh:
+I'm a fullstack AI developer who loves building complete solutions from start to finish. I create smart chatbots, RAG systems, web scrapers, and automations that take care of boring, repetitive tasks, so you don't have to. I build my apps using NextJS, NodeJS, Laravel, and Python. I use tools like Claude Code, Codex, and Cursor every day to speed up my process, with no shortcuts on quality.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafid-kusuma)
